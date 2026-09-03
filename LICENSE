@@ -1,0 +1,38 @@
+MIT License
+
+Copyright (c) 2026 skinnerboxentertainment
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+-------------------------------------------------------------------------
+
+THE LICENCE ABOVE DOES NOT COVER EVERY FILE IN THIS REPOSITORY.
+
+  tools/PressStart2P-Regular.ttf is licensed under the SIL Open Font
+  License 1.1, NOT under the MIT licence above. See OFL.txt, which governs
+  that file and is not superseded by this one. "Press Start 2P" is a
+  Reserved Font Name under that licence: the file must not be renamed or
+  modified while carrying it.
+
+  The font embedded in ascii-city.html is unscii-8, which is PUBLIC DOMAIN.
+  A public domain dedication imposes no conditions, so the MIT terms above
+  are not needed for it and do not restrict it.
+
+NOTICE records the full third-party position, and PROVENANCE.md records what
+this project is derived from and how that was audited.
